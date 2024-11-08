@@ -16,7 +16,7 @@ a {
     color: inherit;
 }
 
-a:hover {
+.header__item a:hover {
     text-decoration: underline;
 }
 
