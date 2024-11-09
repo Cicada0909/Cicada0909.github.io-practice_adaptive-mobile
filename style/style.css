@@ -226,7 +226,7 @@ button {
     justify-content: center;
     align-items: center;
     font-size: 22px;
-    background-color: #3b1a41;
+    background-color: rgb(59, 26, 65, 0.3);
     width: 180px;
     height: 40px;
     border-top: 1px solid #301534;
